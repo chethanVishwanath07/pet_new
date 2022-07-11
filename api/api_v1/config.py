@@ -3,15 +3,15 @@ from functools import lru_cache
 
 
 class Settings(BaseSettings):
-    AWS_KEY = "AKIA4EQK62742QAW2273"
-    AWS_SECRET = "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"
-    AWS_REGION = "ap-south-1"
-    AWS_BUCKET_NAME = "provenio-petbarn"
-    DB_USERNAME =  "postgres"
-    DB_PASSWORD = "PetbarN123"
-    DB_HOST = "petbarn.cssm0yfvyzaa.ap-southeast-2.rds.amazonaws.com"
-    DB_PORT = "5432"
-    DB_NAME = "petbarn"
+    AWS_KEY = "p"
+    AWS_SECRET = "p"
+    AWS_REGION = "p"
+    AWS_BUCKET_NAME = "p"
+    DB_USERNAME =  "p"
+    DB_PASSWORD = "P"
+    DB_HOST = "p"
+    DB_PORT = ""
+    DB_NAME = "p"
 
 
     # AWS_KEY :str
